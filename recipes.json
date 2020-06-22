@@ -1703,35 +1703,6 @@
 					]
 				}
 			]
-		},
-		{
-			"id": "huevos-fritos",
-			"tag": [],
-			"ingredient": [
-				{
-					"amount": "2",
-					"name": "huevos"
-				},
-				{
-					"amount": "50",
-					"unit": "ml",
-					"name": "aceite de oliva"
-				}
-			],
-			"ingredientGroup": [
-				{
-					"ingredient": []
-				}
-			],
-			"step": [
-				{
-					"description": "Calentar el aceite"
-				},
-				{
-					"description": "freir los huevos"
-				}
-			],
-			"notes": "El aceite tiene q estar suficientemente caliente para el hueo se fria correctamente."
 		}
 	]
 }
